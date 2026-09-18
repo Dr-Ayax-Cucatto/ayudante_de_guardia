@@ -4,7 +4,7 @@ area: Cardiología
 modulo: Cardiología
 buscar: isquemia arterial aguda, EVP, miembro frío, 5P, embolia arterial, síndrome de reperfusión
 ver_tambien: Fibrilación auricular, Aneurisma de aorta, Síndrome aórtico agudo
-imagenes: img/evp-viabilidad-miembro.jpg, img/evp-algoritmo-isquemia-aguda.jpg
+imagenes: img/evp-algoritmo-isquemia-aguda.jpg
 fuente: Medicina interna de todos los días (Hospital Italiano), Cap. I, Tema 12
 revisada: 2026-09-17
 ---
@@ -30,8 +30,6 @@ Dolor, ausencia de pulso, palidez del miembro, parestesias e impotencia funciona
 - **IIa, amenaza incipiente:** déficit sensitivo mínimo (digital) o ninguno, sin debilidad. **Recuperable si se trata rápidamente.**
 - **IIb, amenaza inminente:** déficit sensitivo más allá de los dedos con dolor en reposo, debilidad leve o moderada. **Recuperable solo si se trata de inmediato.**
 - **III, sin vitalidad:** anestesia profunda, parálisis y rigidez. **Daño irreversible.**
-
-![Evaluación de viabilidad del miembro](img/evp-viabilidad-miembro.jpg)
 
 ## Conducta
 1. **Anticoagular con heparina DE INMEDIATO ante la sospecha:** disminuye la mortalidad y el riesgo de amputación. No se espera confirmación.

@@ -3,8 +3,7 @@ titulo: Dolor precordial — enfoque inicial
 area: Cardiología
 modulo: Cardiología
 buscar: dolor de pecho, dolor torácico, precordialgia, angina
-ver_tambien: SCA sin elevación del ST, IAM con elevación del ST
-imagenes: img/sca-estratificacion-dolor.jpg
+ver_tambien: Síndrome coronario agudo
 fuente: Medicina interna de todos los días (Hospital Italiano), Cap. I, Tema 2
 revisada: 2026-09-17
 ---
@@ -47,8 +46,6 @@ Adulto con dolor torácico no traumático.
 - **Probable alto riesgo:** opresivo, similar a un SCA previo o en aumento respecto de la angina habitual, o acompañado de náuseas, vómitos o sudoración.
 - **Probable bajo riesgo:** no relacionado con el esfuerzo, área pequeña inframamaria.
 - **Bajo riesgo:** pleurítico, posicional, reproducible con la palpación, descrito como puñalada.
-
-![Estratificación del dolor precordial](img/sca-estratificacion-dolor.jpg)
 
 ## Examen físico
 Signos vitales, presión y pulsos en ambos miembros, soplos, signos de sobrecarga (ingurgitación yugular, reflujo hepatoyugular, crepitantes, edemas), reproducibilidad del dolor a la palpación, miembros inferiores (edema, asimetría).

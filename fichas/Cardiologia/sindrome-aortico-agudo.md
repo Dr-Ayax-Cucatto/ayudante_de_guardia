@@ -4,7 +4,6 @@ area: Cardiología
 modulo: Cardiología
 buscar: disección aórtica, hematoma intramural, úlcera penetrante, dolor transfixiante, aorta
 ver_tambien: Dolor precordial — enfoque inicial, HTA en pacientes internados y emergencia hipertensiva, Aneurisma de aorta
-imagenes: img/aorta-indicacion-cirugia-urgente.jpg
 fuente: Medicina interna de todos los días (Hospital Italiano), Cap. I, Tema 3
 revisada: 2026-09-17
 ---
@@ -52,8 +51,6 @@ Puede asociarse a diaforesis, disnea, debilidad, bradicardia, síncope o síntom
 
 ### Cuándo operar de urgencia
 Dolor persistente; aumento del diámetro de la aorta; úlcera mayor de 20 mm de diámetro o 10 mm de profundidad; aumento del volumen o extensión del hematoma; adelgazamiento de la pared aórtica; signos de isquemia en distintos órganos; sangrado por fuera de la adventicia; hematoma intramural asociado a úlcera; HTA refractaria al tratamiento.
-
-![Indicaciones de intervención quirúrgica urgente](img/aorta-indicacion-cirugia-urgente.jpg)
 
 ## Hematoma intramural
 Hemorragia por rotura de los vasa vasorum contenida en la capa media con extensión a la adventicia. Se considera precursor de la disección. Evolución variable: reabsorción en el 30%, formación de aneurisma, disección o pseudoaneurisma en el 24%. **Misma clínica y mismo tratamiento que la disección.**

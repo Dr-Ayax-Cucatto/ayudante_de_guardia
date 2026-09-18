@@ -4,6 +4,7 @@ area: Cardiología
 modulo: Cardiología
 buscar: taquicardia, palpitaciones, TPS, aleteo, flutter, taquicardia sinusal, adenosina
 ver_tambien: Fibrilación auricular, Taquicardia ventricular y torsión de puntas
+imagenes: img/ecg-aleteo-auricular.jpg
 fuente: Medicina interna de todos los días (Hospital Italiano), Cap. I, Tema 9
 revisada: 2026-09-17
 ---
@@ -25,6 +26,8 @@ Segundo paso: QRS angosto o ancho, y regular o irregular. El QRS ancho incluye l
 ## Aleteo auricular
 - Macrorreentrada alrededor del anillo tricuspídeo. Frecuencia auricular 300, ventricular 150 lpm. En el ECG, actividad auricular regular en ondas de serrucho; el ritmo se vuelve irregular si el bloqueo es variable.
 - Con bloqueo AV 2:1 la frecuencia ventricular ronda los 150 lpm. Si la frecuencia auricular baja (aleteo lento), puede conducir 1:1 y acelerar todavía más la respuesta ventricular.
+![Aleteo auricular con conducción 2:1](img/ecg-aleteo-auricular.jpg)
+
 - **Tratamiento igual al de la fibrilación auricular** (ver ficha).
 - Prevención de recurrencias: ablación por radiofrecuencia, más efectiva que los fármacos.
 
@@ -43,4 +46,4 @@ Segundo paso: QRS angosto o ancho, y regular o irregular. El QRS ancho incluye l
 Ver ficha propia.
 
 ---
-*Verificar dosis contra la página original: la ficha se armó sobre el OCR del escaneo.*
+*El trazado de ECG es una imagen de referencia, no proviene del libro. Verificar dosis contra la página original: la ficha se armó sobre el OCR del escaneo.*

@@ -3,7 +3,8 @@ titulo: Taquicardia ventricular y torsión de puntas
 area: Cardiología
 modulo: Cardiología
 buscar: TV, QRS ancho, torsada de punta, torsades, QT largo, amiodarona, magnesio
-ver_tambien: Taquiarritmias de QRS angosto, IAM con elevación del ST
+ver_tambien: Taquiarritmias de QRS angosto, Síndrome coronario agudo
+imagenes: img/ecg-tv-monomorfa.jpg, img/ecg-torsada-de-puntas.jpg
 fuente: Medicina interna de todos los días (Hospital Italiano), Cap. I, Tema 9
 revisada: 2026-09-17
 ---
@@ -24,6 +25,8 @@ Taquicardia de QRS ancho. Las causas son la taquicardia ventricular y las suprav
 - *No sostenida:* dura menos de 30 segundos, suele ser asintomática.
 - *Sostenida:* dura más de 30 segundos o produce colapso circulatorio. Casi siempre se asocia a daño estructural.
 
+![Taquicardia ventricular monomorfa](img/ecg-tv-monomorfa.jpg)
+
 **Clasificación por morfología:** monomorfa (QRS similar en todos los latidos), polimorfa (QRS cambiante de un latido a otro), bidireccional (alternan complejos de distinta amplitud y dirección).
 
 **Tratamiento**
@@ -36,6 +39,8 @@ Taquicardia de QRS ancho. Las causas son la taquicardia ventricular y las suprav
 
 **ECG:** QRS polimorfos que cambian de amplitud y duración, con patrón de oscilación sobre la línea de base, a 200-250 lpm. Suele estar precedida por un latido con QT prolongado (posdespolarizaciones).
 
+![Torsión de puntas, comparada con un trazado normal](img/ecg-torsada-de-puntas.jpg)
+
 **Causas de QT largo:** hipocalcemia, hipopotasemia, hipomagnesemia, cocaína, antidepresivos tricíclicos, macrólidos, algunas quinolonas, antiarrítmicos del grupo I, sotalol, QT largo congénito.
 
 **Tratamiento:** desfibrilación, magnesio EV y marcapasos auricular o ventricular provisorio. **Los antiarrítmicos Ia, Ic y III pueden agravar la arritmia porque prolongan más el QT.**
@@ -45,4 +50,4 @@ Taquicardia de QRS ancho. Las causas son la taquicardia ventricular y las suprav
 - En la torsión de puntas, el reflejo de dar un antiarrítmico empeora el cuadro; lo que corresponde es magnesio y corregir el desencadenante.
 
 ---
-*Verificar dosis contra la página original: la ficha se armó sobre el OCR del escaneo.*
+*Los trazados de ECG son imágenes de referencia, no provienen del libro. Verificar dosis contra la página original: la ficha se armó sobre el OCR del escaneo.*

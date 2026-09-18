@@ -4,7 +4,7 @@ area: Cardiología
 modulo: Cardiología
 buscar: FA, arritmia, pulso irregular, CHA2DS2-VASc, HAS-BLED, anticoagulación, cardioversión
 ver_tambien: Taquiarritmias de QRS angosto, Insuficiencia cardíaca
-imagenes: img/fa-algoritmo-agudo.jpg, img/fa-farmacos.jpg, img/fa-escalas-chadsvasc-hasbled.jpg
+imagenes: img/ecg-fa-vs-sinusal.jpg, img/fa-algoritmo-agudo.jpg, img/fa-farmacos.jpg, img/fa-escalas-chadsvasc-hasbled.jpg
 fuente: Medicina interna de todos los días (Hospital Italiano), Cap. I, Tema 9
 revisada: 2026-09-17
 ---
@@ -25,6 +25,9 @@ Estrés, posoperatorio, intoxicación alcohólica aguda, fiebre, TEP, anemia, dr
 
 ## Diagnóstico
 1. **ECG:** ausencia de ondas P con respuesta ventricular irregular.
+
+![Ritmo sinusal normal arriba, fibrilación auricular abajo](img/ecg-fa-vs-sinusal.jpg)
+
 2. **Buscar causas reversibles** (fiebre, anemia, hipopotasemia, ICC) y pedir **ecocardiograma** para descartar patología estructural: tamaño auricular, valvulopatías, trombos.
 
 ## Algoritmo de la FA aguda
@@ -82,4 +85,4 @@ Indicada en FA sintomática recurrente. Aísla las bandas de músculo auricular 
 - El capítulo trae dos esquemas distintos de amiodarona (el general y el de FE <40%). Definir cuál se usa antes de llevar esto a la guardia.
 
 ---
-*Verificar dosis contra la página original: la ficha se armó sobre el OCR del escaneo. La dosis de dabigatrán quedó ilegible en el escaneo y la completé con la dosis habitual en FA no valvular.*
+*El trazado de ECG es una imagen de referencia, no proviene del libro. Verificar dosis contra la página original: la ficha se armó sobre el OCR del escaneo. La dosis de dabigatrán quedó ilegible en el escaneo y la completé con la dosis habitual en FA no valvular.*

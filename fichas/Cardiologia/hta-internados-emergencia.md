@@ -3,8 +3,7 @@ titulo: HTA en pacientes internados y emergencia hipertensiva
 area: Cardiología
 modulo: Cardiología
 buscar: hipertensión, urgencia hipertensiva, emergencia hipertensiva, presión alta, labetalol, nitroprusiato
-ver_tambien: IAM con elevación del ST, Insuficiencia cardíaca
-imagenes: img/hta-emergencias-tabla.jpg
+ver_tambien: Síndrome coronario agudo, Insuficiencia cardíaca
 fuente: Medicina interna de todos los días (Hospital Italiano), Cap. I, Tema 4
 revisada: 2026-09-17
 ---
@@ -42,8 +41,6 @@ Descenso inmediato con fármacos endovenosos titulables; el objetivo depende del
 | Síndrome coronario agudo | <130/<80 dentro de las 3 h | Betabloqueante VO (contraindicado en bajo gasto o inestabilidad hemodinámica) más NTG EV 5-10 mcg/min, titulando cada 10 min hasta un máximo de 20 mcg/min |
 | Edema agudo de pulmón / IC descompensada | Bajar 10-15% la PA o lograr mejoría sintomática | Furosemida EV 40 mg, titular a 80 mg en 1 hora si no hay respuesta, más NTG EV 10-20 mcg/min titulando cada 10 min |
 | Síndrome aórtico agudo (disección o aneurisma complicado) | Sistólica 110-120 mmHg dentro de los 10-20 min | Labetalol EV 10-20 mg cada 2 min |
-
-![Algoritmo de manejo de la HTA en pacientes internados](img/hta-emergencias-tabla.jpg)
 
 ## Antes de medicar, revisar esta lista
 1. ¿Hay síntomas o evidencia de daño de órgano (disnea, dolor torácico, alteración del sensorio, foco neurológico)? → medicación EV.

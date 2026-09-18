@@ -3,16 +3,13 @@ titulo: Miocardiopatía dilatada
 area: Cardiología
 modulo: Cardiología
 buscar: MCD, miocardiopatía alcohólica, Takotsubo, miocardiopatía por estrés, FEVI baja
-ver_tambien: Insuficiencia cardíaca, Miocardiopatía hipertrófica, SCA sin elevación del ST
-imagenes: img/tipos-miocardiopatias.jpg
+ver_tambien: Insuficiencia cardíaca, Miocardiopatía hipertrófica, Síndrome coronario agudo
 fuente: Medicina interna de todos los días (Hospital Italiano), Cap. I, Tema 7
 revisada: 2026-09-17
 ---
 
 ## Marco general
 Las miocardiopatías son enfermedades del miocardio asociadas a disfunción mecánica o eléctrica. Se clasifican en dilatada, hipertrófica, restrictiva, arritmogénica y no compactada.
-
-![Tipos de miocardiopatías](img/tipos-miocardiopatias.jpg)
 
 # Miocardiopatía dilatada primaria
 

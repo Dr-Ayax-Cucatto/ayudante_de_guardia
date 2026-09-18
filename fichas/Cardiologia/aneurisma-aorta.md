@@ -3,7 +3,7 @@ titulo: Aneurisma de aorta
 area: Cardiología
 modulo: Cardiología
 buscar: AAA, aneurisma aórtico, aorta abdominal, masa pulsátil, rastreo
-ver_tambien: Síndrome aórtico agudo, Enfermedad vascular periférica
+ver_tambien: Síndrome aórtico agudo, Isquemia arterial aguda y enfermedad vascular periférica
 fuente: Medicina interna de todos los días (Hospital Italiano), Cap. I, Tema 3
 revisada: 2026-09-17
 ---

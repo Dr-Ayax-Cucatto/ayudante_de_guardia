@@ -3,7 +3,7 @@ titulo: ECG normal — lectura sistemática
 area: Cardiología
 modulo: Cardiología
 buscar: electro, ECG, eje eléctrico, QTc, intervalo PR, ritmo sinusal, cálculo de frecuencia
-ver_tambien: IAM con elevación del ST, Taquiarritmias de QRS angosto
+ver_tambien: Síndrome coronario agudo, Taquiarritmias de QRS angosto
 imagenes: img/ecg-papel.jpg, img/ecg-calculo-fc.jpg, img/ecg-eje-electrico.jpg, img/ecg-localizacion-lesion.jpg
 fuente: Medicina interna de todos los días (Hospital Italiano), Cap. I, Tema 1
 revisada: 2026-09-17
@@ -51,7 +51,7 @@ Velocidad de corrida 25 mm/segundo. Voltaje 1 cm = 1 mV. **Siempre revisar el es
 | aVL | Lateral | V5 | Lateral |
 | aVF | Inferior | V6 | Lateral |
 
-La correspondencia con la arteria comprometida está en la ficha de IAM con elevación del ST.
+La correspondencia con la arteria comprometida está en la ficha de síndrome coronario agudo.
 
 ## Trampas
 - Un QT que parece normal puede no serlo: siempre corregirlo por la frecuencia antes de decidir.

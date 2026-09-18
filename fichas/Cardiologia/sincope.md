@@ -4,7 +4,7 @@ area: Cardiología
 modulo: Cardiología
 buscar: síncope, lipotimia, pérdida de conciencia, vasovagal, ortostatismo, masaje del seno carotídeo
 ver_tambien: Bradiarritmias, Miocardiopatía hipertrófica, Valvulopatías aórticas
-imagenes: img/sincope-etiologia.jpg, img/sincope-indicaciones-internacion.jpg, img/sincope-algoritmo.jpg
+imagenes: img/sincope-algoritmo.jpg
 fuente: Medicina interna de todos los días (Hospital Italiano), Cap. I, Tema 11
 revisada: 2026-09-17
 ---
@@ -21,7 +21,11 @@ Los más frecuentes son los neuromediados o neurocardiogénicos (35%), y dentro 
 
 **El factor predictivo de muerte más importante es el antecedente de enfermedad cardíaca estructural.** La mortalidad al año del síncope de origen cardíaco es del 30%.
 
-![Etiología del síncope](img/sincope-etiologia.jpg)
+| Grupo | Causas |
+|---|---|
+| Neurocardiogénico | Vasovagal, del seno carotídeo, situacional |
+| Ortostático | Depleción de volumen, fármacos, disautonomía (alcohol, diabetes, uremia, Parkinson, Alzheimer) |
+| Cardiogénico | Eléctrico: TPS, TV, BAV. Estructural: ICC, hipertensión pulmonar, estenosis aórtica, miocardiopatía hipertrófica |
 
 **Diferenciales:** neurológicos (migraña, convulsiones, insuficiencia vertebrobasilar), metabólicos (hipoxia, hipoglucemia, intoxicación) y psicógenos (trastorno de ansiedad, ataque de pánico con alcalosis respiratoria, somatización).
 
@@ -61,8 +65,6 @@ Es de alto riesgo si hay alguna de estas: ECG patológico; antecedente de cardio
 - **Para diagnóstico:** cardiopatía, ECG anormal, síncope durante el ejercicio, historia familiar de muerte súbita.
 - **Para tratamiento:** arritmias, síncope por isquemia, síncope por cardiopatía, síncope cardioinhibitorio para implante de marcapasos.
 - **Para monitorización:** en los casos con lesión grave.
-
-![Indicaciones de internación](img/sincope-indicaciones-internacion.jpg)
 
 ![Algoritmo de evaluación del síncope](img/sincope-algoritmo.jpg)
 
